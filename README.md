@@ -19,3 +19,7 @@ Profile Views:
 <picture>
 <img width="160" height = "24" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" />
 </picture>
+
+<picture>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</picture>
