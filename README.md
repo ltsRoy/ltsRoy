@@ -8,4 +8,6 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ltsRoy?label=GitHub%20&style=social">
 </picture>
 
+Profile Visits: 
+
 ![Visitor Count](https://profile-counter.glitch.me/{ltsRoy}/count.svg)
