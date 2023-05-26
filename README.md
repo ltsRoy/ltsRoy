@@ -10,7 +10,8 @@
 
 <br />
 <br />
-Profile Visits: 
+VISITORS: 
+<br />
 <br />
 
 <picture>
