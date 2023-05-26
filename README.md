@@ -11,9 +11,9 @@
 <html>
 <br />
 <br />
-<p style="font-size:30px">
+<h1 style="font-size:30px">
 Profile Views:
-</p>
+</h1>
 </html>
 
 <picture>
