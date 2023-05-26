@@ -17,5 +17,5 @@ Profile Views:
 </html>
 
 <picture>
-<img width="240" height = "36" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" />
+<img width="160" height = "24" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" />
 </picture>
