@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne+Mono&duration=2000&pause=50&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=200&lines=Hi%2C+I+am+Roy.;High+School+Student.;Check+out+my+repositories.;Have+a+nice+day!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&vCenter=true&width=500&height=100&lines=%22Hello+World!%22+;I'm+Roy.;My+repos+are+fun!;%22Trust+me+bro.%22+)](https://git.io/typing-svg)
