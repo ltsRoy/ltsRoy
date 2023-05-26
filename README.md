@@ -12,4 +12,6 @@
 <br />
 Profile Visits: 
 <br />
-(https://profile-counter.glitch.me/{ltsRoy}/count.svg)
+<picture>
+[](https://profile-counter.glitch.me/{ltsRoy}/count.svg)
+</picture>
