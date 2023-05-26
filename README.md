@@ -10,7 +10,7 @@
 
 <br />
 <br />
-<p style="font-size:10px">
+<p style="font-size:10">
 Profile Views: 
 </p>
 
