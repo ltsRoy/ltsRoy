@@ -8,12 +8,13 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/ltsRoy?label=GitHub%20&style=social">
 </picture>
 
+<html>
 <br />
 <br />
-<p>
- <font size = "5">
-Profile Views: </font>
+<p style="font-size:30px">
+Profile Views:
 </p>
+</html>
 
 <picture>
 <img width="120" height = "18" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" />
