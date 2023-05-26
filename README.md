@@ -10,10 +10,9 @@
 
 <br />
 <br />
-<p style="font-size:30px">
+<p style="font-size:20px">
 Profile Views: 
 </p>
-<br />
 <br />
 
 <picture>
