@@ -10,7 +10,9 @@
 
 <br />
 <br />
+<p style="font-size:30px">
 Profile Views: 
+</p>
 <br />
 <br />
 
