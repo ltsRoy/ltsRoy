@@ -9,6 +9,7 @@
 </picture>
 
 <br />
+<br />
 Profile Visits: 
 <br />
-![Visitor Count](https://profile-counter.glitch.me/{ltsRoy}/count.svg)
+(https://profile-counter.glitch.me/{ltsRoy}/count.svg)
