@@ -10,10 +10,9 @@
 
 <br />
 <br />
-<p style="font-size:20px">
+<p style="font-size:10px">
 Profile Views: 
 </p>
-<br />
 
 <picture>
 <img width="120" height = "18" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" />
