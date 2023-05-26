@@ -11,7 +11,7 @@
 <html>
 <br />
 <br />
-<h1 style="font-size:30px">
+<h1 style="font-size:10px">
 Profile Views:
 </h1>
 </html>
