@@ -18,7 +18,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="280" width="360" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
+  <img align="center" height="290" width="360" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsRoy&theme=synthwave&layout=compact" />
