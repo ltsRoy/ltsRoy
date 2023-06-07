@@ -61,3 +61,9 @@ Profile Views:
 <picture>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
+
+<picture>
+
+<img src="https://capsule-render.vercel.app/api?wavingwaviwavin&color=auto&height=200&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=70&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
+
+</picture>
