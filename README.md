@@ -18,9 +18,9 @@
 </br>
 </br>
 
-My skills include Java, Python and Lt x->0 amounts of HTML, CSS and JS.
+💻My skills include Java, Python and Lt x->0 amounts of HTML, CSS and JS.
 </br> 
-I learn whatever I need to keep my stupid projects going.
+🛠I learn whatever I need to keep my stupid projects going.
 </br>
 </br>
 
