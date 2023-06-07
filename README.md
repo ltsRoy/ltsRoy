@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Code-ichiwa!&fontSize=40&animation=twinkling&fontAlignY=20&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=20&fontAlign=70)
 <--&descAlignY=40&desc=Welcome%20to%20my%20page!-->
 
 <picture>
