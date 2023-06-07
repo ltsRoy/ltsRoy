@@ -11,7 +11,7 @@
 </br>
 </br>
 
-![snake gif](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg)
 
 <html>
 <br />
