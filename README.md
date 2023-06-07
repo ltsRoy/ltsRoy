@@ -18,6 +18,12 @@
 </br>
 </br>
 
+My skills include Java, Python and Lt x->0 amounts of HTML, CSS and JS.
+</br> 
+I learn whatever I need to whenever I want to keep my stupid projects going.
+</br>
+</br>
+
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <picture>
