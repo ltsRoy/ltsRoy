@@ -62,8 +62,11 @@ Profile Views:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
 
+</br>
+</br>
+
 <picture>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Peace!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=-70&rotate=180&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Peace!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=-70&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
 
 </picture>
