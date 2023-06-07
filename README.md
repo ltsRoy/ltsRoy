@@ -67,6 +67,6 @@ Profile Views:
 
 <picture>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Peace.&fontSize=100&animation=twinkling&fontAlignY=50&fontAlign=17&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Peace.&fontSize=80&animation=twinkling&fontAlignY=55&fontAlign=17&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
 
 </picture>
