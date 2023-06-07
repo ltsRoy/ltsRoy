@@ -1,5 +1,5 @@
 <picture>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=70&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=70&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
 </picture>
 <!--&descAlignY=40&desc=Welcome%20to%20my%20page-->
   
@@ -67,6 +67,6 @@ Profile Views:
 
 <picture>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Peace.&fontSize=100&animation=twinkling&fontAlignY=30&fontAlign=20&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Peace.&fontSize=100&animation=twinkling&fontAlignY=25&fontAlign=15&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
 
 </picture>
