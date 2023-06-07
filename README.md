@@ -14,6 +14,11 @@
 </br>
 </br>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsRoy)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+</br>
+
 ![Snake animation](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg)
 
 <html>
