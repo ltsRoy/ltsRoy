@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=70&customColorList=4,8,22,19,13,13,13,13,12,12,12)
+<picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Code-ichiwa!&fontSize=70&animation=twinkling&fontAlignY=30&fontAlign=70&customColorList=4,8,22,19,13,13,13,13,12,12,12)"
+</picture>
 <!--&descAlignY=40&desc=Welcome%20to%20my%20page-->
-
+  
+  
 <picture>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=850&vCenter=true&width=500&height=100&lines=%22Hello+World!%22+;I+am+Roy.;My+repos+are+fun!;%22Trust+me+bro.%22" />
 </picture>
@@ -21,6 +24,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
 </a>
+</picture>
+
+<picture>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsRoy&theme=synthwave&layout=compact" />
 </a>
