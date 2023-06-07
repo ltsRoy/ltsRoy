@@ -36,7 +36,7 @@
 </br>
 </br>
 <picture>
-![Snake animation](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg)
+<img="https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg" />
 </picture>
   
 <html>
