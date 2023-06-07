@@ -11,9 +11,7 @@
 </br>
 </br>
 
-<picture>
-  ![snake gif](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.gif)
-</picture>
+![snake gif](https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.gif)
 
 <html>
 <br />
