@@ -5,7 +5,7 @@
   
   
 <picture>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=850&vCenter=true&width=500&height=100&lines=%22Hello+World!%22+;I+am+Roy.;My+repos+are+fun!;%22Trust+me+bro.%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3800&pause=850&vCenter=true&width=500&height=100&lines=%22Hello+World!%22+;I+am+Roy.;My+repos+are+fun!;%22Trust+me+bro.%22" />
 </picture>
 
 </br>
