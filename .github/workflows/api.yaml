@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Set API key
         run: echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
-      
+
       - name: Checkout code
         uses: actions/checkout@v2
 
@@ -28,7 +28,7 @@ jobs:
           cat output.txt >> temp.txt
           echo "```" >> temp.txt
           sed -i -e '/<!--START_SECTION:output-->/r temp.txt' -e '/<!--END_SECTION:output-->/d' README.md
-        if: always()
+        shell: bash
 
       - name: View output file
         run: cat output.txt
