@@ -24,7 +24,8 @@ jobs:
 
       - name: Update README.md
         run: |
-          echo "$(cat output.txt)%0A" >> README.md
+          output=$(cat output.txt)
+          sed -i "s/<!-- START_SECTION:output -->.*<!-- END_SECTION:output -->/<!-- START_SECTION:output -->\n${output}\n<!-- END_SECTION:output -->/" README.md
         if: always()
         
       - name: View output file
