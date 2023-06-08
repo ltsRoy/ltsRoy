@@ -68,6 +68,10 @@ Profile Views:
 </br>
 </br>
 
+
+<!-- START_SECTION:output -->
+<!-- END_SECTION:output -->
+
 <picture>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Follow%20me%20to%20support%20this%20broke%20coder!&fontSize=45&animation=twinkling&fontAlignY=55&&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
