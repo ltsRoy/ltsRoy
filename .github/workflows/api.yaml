@@ -22,12 +22,9 @@ jobs:
         run: |
           python quote.py > output.txt
 
-      - name: Replace output in README.md
-        uses: technote-space/replace-string-action@v2
-        with:
-          path: README.md
-          pattern: '<!--START_SECTION:output-->(.|\n)*<!--END_SECTION:output-->'
-          replacement: '<!--START_SECTION:output-->\n```\n$(cat output.txt)\n```\n<!--END_SECTION:output-->'
-
-      - name: View output file
-        run: cat output.txt
+      - name: Update README.md
+        run: |
+          echo "```" > temp.txt
+          cat output.txt >> temp.txt
+          echo "```" >> temp.txt
+          sed -i -e '/<!--START_SECTION:output-->/r temp.txt' -e '/<!--END_SECTION:output-->/d' README.md
