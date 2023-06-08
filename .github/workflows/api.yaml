@@ -31,8 +31,10 @@ jobs:
 
       - name: Update README.md
         run: |
-          output=$(cat output.txt)
-          sed -i "s/<!-- START_SECTION:output -->.*<!-- END_SECTION:output -->/<!-- START_SECTION:output -->\n${output}\n<!-- END_SECTION:output -->/" README.md
+          echo "```" > temp.txt
+          cat output.txt >> temp.txt
+          echo "```" >> temp.txt
+          sed -i -e '/<!--START_SECTION:output-->/r temp.txt' -e '/<!--END_SECTION:output-->/d' README.md
         if: always()
         
       - name: View output file
