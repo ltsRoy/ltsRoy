@@ -21,3 +21,8 @@ jobs:
           API_KEY: ${{ secrets.API_KEY }}
         run: |
           python quote.py > output.txt
+
+      - name: Update README.md
+        run: |
+          echo "$(cat output.txt)%0A" >> README.md
+        if: always()
