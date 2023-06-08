@@ -1,0 +1,24 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set API key
+        run: echo "API_KEY=${{ secrets.API_KEY }}" >> $GITHUB_ENV
+      
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Run Python script
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: |
+          python my_script.py
+
