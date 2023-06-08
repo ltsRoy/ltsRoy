@@ -37,14 +37,9 @@
 
 </br>
 </br>
-
-
 <picture>
-  
-
 <img src="https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg" />
 </picture>
-  
 <html>
 <br />
 <br />
@@ -52,28 +47,20 @@
 Profile Views:
 </h1>
 </html>
-
 <picture>
 <img width="160" height = "24" src= "https://profile-counter.glitch.me/{ltsRoy}/count.svg" /> 
 </picture>
 (👈 These are all me lol, no one actually comes here.🙂)
-
 <h1>
  Random Joke: 
  </h1>
 <picture>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
-
 </br>
 </br>
-
-
 <!-- START_SECTION:output -->
 <!-- END_SECTION:output -->
-
 <picture>
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Follow%20me%20to%20support%20this%20broke%20coder!&fontSize=45&animation=twinkling&fontAlignY=55&&customColorList=4,8,22,19,13,13,13,13,12,12,12)"/>
-
 </picture>
