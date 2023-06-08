@@ -26,3 +26,6 @@ jobs:
         run: |
           echo "$(cat output.txt)%0A" >> README.md
         if: always()
+        
+      - name: View output file
+        run: cat output.txt
