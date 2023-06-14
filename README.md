@@ -64,7 +64,7 @@ Profile Views:
 <picture>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
-</br>
+
 
 <h1>Now Playing: </h1>
 
