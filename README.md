@@ -65,7 +65,6 @@ Profile Views:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
 </br>
-</br>
 
 <h1>Last Played on Spotify: </h1>
 
