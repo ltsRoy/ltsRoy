@@ -66,6 +66,9 @@ Profile Views:
 </picture>
 </br>
 </br>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=culjzr5wtx71bqnux7vh34ohb&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=culjzr5wtx71bqnux7vh34ohb&redirect=true)
+
 <!-- START_SECTION:output! -->
 <!-- END_SECTION:output! -->
 <picture>
