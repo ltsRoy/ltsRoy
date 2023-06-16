@@ -1,3 +1,8 @@
+<picture>
+<img src ="https://country-uiwz.onrender.com/country/india" height="100" > 
+</picture>
+
+
 <!--<div align="center">
     <img src="colour.svg" width="400" height="100" alt="css-in-readme">
 </div>->>
