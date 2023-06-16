@@ -35,9 +35,13 @@ print("hello")
 I'm from India! ❤️
 </br>
 
-![](https://country-uiwz.onrender.com/country/india)
+![Hi](https://country-uiwz.onrender.com/country/india)
 
-curl -X PURGE https://country-uiwz.onrender.com/country/india
+<picture>
+<img src ="https://country-uiwz.onrender.com/country/india?">
+</picture>
+
+<!--curl -X PURGE https://country-uiwz.onrender.com/country/india-->
 
 </br>
 </br>
