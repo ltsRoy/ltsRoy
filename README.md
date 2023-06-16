@@ -38,11 +38,11 @@ print("hello")
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <picture>
-<img align="centre" height="100" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
+<img align="centre" width="380" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
 </picture>
 
 <picture>
-<img align="centre" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsRoy&theme=synthwave&layout=compact" />
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsRoy&theme=synthwave&layout=compact" />
 </picture>
 
 </br>
