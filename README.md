@@ -37,6 +37,8 @@ I'm from India! ❤️
 
 ![](https://country-uiwz.onrender.com/country/india)
 
+curl -X PURGE https://country-uiwz.onrender.com/country/india
+
 </br>
 </br>
 
