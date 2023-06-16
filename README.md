@@ -36,7 +36,7 @@ I'm from India! ❤️
 </br>
 
 <picture>
-<img src ="https://country-uiwz.onrender.com/country/india" > 
+<img src="https://country-uiwz.onrender.com/country/india"> 
 </picture>
 
 
