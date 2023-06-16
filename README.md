@@ -35,7 +35,7 @@ print("hello")
 I'm from India! ❤️
 </br>
 
-![](https://country-uiwz.onrender.com/country/india?)
+![](https://country-uiwz.onrender.com/country/india)
 
 </br>
 </br>
