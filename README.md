@@ -1,8 +1,3 @@
-<picture>
-<img src ="https://country-uiwz.onrender.com/country/india" height="100" > 
-</picture>
-
-
 <!--<div align="center">
     <img src="colour.svg" width="400" height="100" alt="css-in-readme">
 </div>->>
@@ -36,6 +31,12 @@ print("hello")
 💻My skills include Java, Python and $\lim_{x \to 0}$ amounts of HTML, CSS and JS.
 </br> 
 🛠I learn whatever I need to keep my stupid projects going.
+
+I'm from India! ❤️
+<picture>
+<img src ="https://country-uiwz.onrender.com/country/india" width="380" > 
+</picture>
+
 
 </br>
 </br>
