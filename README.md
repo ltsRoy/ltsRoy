@@ -38,7 +38,7 @@ I'm from India! ❤️
 <!--[![Hi](https://country-uiwz.onrender.com/country/india)]()-->
 
 <picture>
-<img src ="https://country-uiwz.onrender.com/country/india?">
+<img src ="https://country-uiwz.onrender.com/country/india?v=72">
 </picture>
 
 <!--curl -X PURGE https://country-uiwz.onrender.com/country/india-->
