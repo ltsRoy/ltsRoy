@@ -35,9 +35,7 @@ print("hello")
 I'm from India! ❤️
 </br>
 
-<picture>
-<img src="https://country-uiwz.onrender.com/country/india">
-</picture>
+![](https://country-uiwz.onrender.com/country/india?)
 
 </br>
 </br>
