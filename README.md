@@ -39,19 +39,6 @@ I'm from India! ❤️
 <img src="https://country-uiwz.onrender.com/country/india?timestamp=<%= new Date().getTime() %>">
 </picture>
 
-<picture>
-  <img id="dynamicImage" src="" alt="Dynamic Image">
-</picture>
-
-<script>
-  window.addEventListener('load', function() {
-    var image = document.getElementById('dynamicImage');
-    var randomNumber = Math.floor(Math.random() * 1000000); // Generate a random number
-    var imageUrl = 'https://country-uiwz.onrender.com/country/india?' + randomNumber;
-    image.src = imageUrl;
-  });
-</script>
-
 
 </br>
 </br>
