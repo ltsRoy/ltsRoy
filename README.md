@@ -26,7 +26,7 @@ print("hello")
 </br>
 </br>
 
-💻My skills include Java, Python and $\lim_{x \to \0}$ amounts of HTML, CSS and JS.
+💻My skills include Java, Python and $\lim_{x \to 0}$ amounts of HTML, CSS and JS.
 </br> 
 🛠I learn whatever I need to keep my stupid projects going.
 </br>
