@@ -26,9 +26,10 @@ print("hello")
 </br>
 </br>
 
-<li>💻My skills include Java, Python and $\lim_{x \to 0}$ amounts of HTML, CSS and JS.
+💻My skills include Java, Python and $\lim_{x \to 0}$ amounts of HTML, CSS and JS.
 </br> 
-🛠I learn whatever I need to keep my stupid projects going.</li>
+🛠I learn whatever I need to keep my stupid projects going.
+
 </br>
 </br>
 
@@ -65,12 +66,15 @@ Profile Views:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </picture>
 
-
 <!-- respectable line left empty in memory of all those who lost their virginities -->
 
 <h1>Now Playing: </h1>
-
+<picture>
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=culjzr5wtx71bqnux7vh34ohb&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=culjzr5wtx71bqnux7vh34ohb&redirect=true)
+
+</picture>
+
 
 <!-- START_SECTION:output! -->
 <!-- END_SECTION:output! -->
