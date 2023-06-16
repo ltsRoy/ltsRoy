@@ -38,7 +38,7 @@ print("hello")
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <picture>
-<img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
+<img align="center" width="375" src="https://github-readme-stats.vercel.app/api?username=ltsRoy&theme=synthwave" />
 </picture>
 
 <picture>
