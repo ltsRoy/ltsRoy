@@ -33,6 +33,7 @@ print("hello")
 🛠I learn whatever I need to keep my stupid projects going.
 
 I'm from India! ❤️
+</br>
 <picture>
 <img src ="https://country-uiwz.onrender.com/country/india" width="380" > 
 </picture>
