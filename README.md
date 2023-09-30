@@ -1,4 +1,4 @@
-http://medium.com/feed/@ltsroy
+
 <!--<div align="center">
     <img src="colour.svg" width="400" height="100" alt="css-in-readme">
 </div>->>
