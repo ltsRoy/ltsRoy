@@ -67,9 +67,6 @@ print("hello")
 </picture>
 
 </br>
-</br>
-
-
 
 <html>
 <br />
