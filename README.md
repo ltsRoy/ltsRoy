@@ -1,5 +1,4 @@
-I like to be vulnerable,
-It makes people think I am weak.
+I like to be vulnerable, it makes people think I am weak.
 
 
 
