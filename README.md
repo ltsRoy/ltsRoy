@@ -41,15 +41,13 @@ print("hello")
 💻My skills include Java, Python and $\lim_{x \to 0}$ amounts of HTML, CSS and JS.
 </br> 
 🛠I learn whatever I need to keep my stupid projects going.
-
-I'm from India! ❤️
 </br>
 
-<!--[![Hi](https://country-uiwz.onrender.com/country/india)]()-->
+<!--[![Hi](https://country-uiwz.onrender.com/country/india)]()
 
 <picture>
 <img src ="https://country-uiwz.onrender.com/country/india?v=7262">
-</picture>
+</picture>-->
 
 <!--curl -X PURGE https://country-uiwz.onrender.com/country/india-->
 
@@ -69,7 +67,7 @@ I'm from India! ❤️
 </br>
 </br>
 
-<img src="https://github.com/ltsRoy/ltsRoy/blob/output/github-contribution-grid-snake.svg" />
+
 
 <html>
 <br />
